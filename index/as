@@ -1,0 +1,33 @@
+<html>
+<title> Mark Justine Thompson </title>
+
+<body bgcolor ="#11B616;">
+<center>
+<img src ="profile.jpg" style = "width : 280px; height : 200px;" >
+
+<h1>Personal info:</h1>
+<h3 style ="color: #DEE800;"> Age:19</h3>
+<h3 style ="color: #DEE800;"> Birthdate: November 4,1997</h3>
+<h3 style ="color: #DEE800;"> Address : Sta Cruz Ilocos Sur.</h3>
+
+
+<h1>Educational background:</h1>
+<h3 style ="color: #DEE800;">Elementary: Sta Cruz Institute</h3>
+<h3 style ="color: #DEE800;">Hgih school: Sta Cruz Institute</h3>
+<h3 style ="color: #DEE800;">College: Saint Luis College</h3>
+
+<h1>Skills:</h1>
+<h3 style ="color: #DEE800;">Sports</h3>
+<h3 style ="color: #DEE800;"> Cooking</h3>
+<h3 style ="color: #DEE800;"> Programming :D<h3>
+<h3 style ="color: #DEE800;">Watching K-drama...oppa<h3>
+
+<h1>Character Reference<h1>
+<h3 style ="color: #DEE800;">Engr.Rj Oraa</h3>
+<h3 style ="color: #DEE800;">dr.pot-pot Gabatin</h3>
+<h3 style ="color: #DEE800;">arch.Percival Javar</h3>
+</center>
+
+</body>
+</html>
+
